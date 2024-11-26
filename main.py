@@ -1,10 +1,10 @@
 
 # currentWorkingDirectory = "C:\\Users\\DELL\\VsCodeProjects\\berlingeoheatmap_project1"
-currentWorkingDirectory = "/mnt/c/Users/DELL/VsCodeProjects/Berlingeoheatmap"
+# currentWorkingDirectory = "/mnt/c/Users/DELL/VsCodeProjects/Berlingeoheatmap"
 
 # -----------------------------------------------------------------------------
 import os
-os.chdir(currentWorkingDirectory)
+# os.chdir(currentWorkingDirectory)
 print("Current working directory\n" + os.getcwd())
 
 import pandas                        as pd
