@@ -1,6 +1,6 @@
 
 # currentWorkingDirectory = "C:\\Users\\DELL\\VsCodeProjects\\berlingeoheatmap_project1"
-currentWorkingDirectory = "/mnt/c/Users/DELL/VsCodeProjects/berlingeoheatmap_project1"
+currentWorkingDirectory = "/mnt/c/Users/DELL/VsCodeProjects/Berlingeoheatmap"
 
 # -----------------------------------------------------------------------------
 import os
